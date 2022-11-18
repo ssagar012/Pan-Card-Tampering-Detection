@@ -1,6 +1,0 @@
-Flask
-imutils
-opencv-python-headless==4.3.0.38
-Pillow
-scikit-image
-gunicorn
