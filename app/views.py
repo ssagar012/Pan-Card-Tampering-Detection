@@ -1,5 +1,6 @@
 # Important imports
 from app import app
+import numpy
 from flask import request, render_template
 import os
 from skimage.metrics import structural_similarity
